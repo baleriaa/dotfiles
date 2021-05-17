@@ -1,0 +1,12 @@
+alias g=’git’
+alias st=’git status’
+alias com=’git commit -m’
+alias g=’git’
+alias s=’git status’
+alias com=’git commit -m’
+alias q=’exit’
+alias c=’clear’
+alias h=’history’
+alias md=mkdir
+alias c=clear
+export PS1='\[\033[1;36m\]\u\[\033[1;31m\]@\[\033[1;32m\]\h:\[\033[1;35m\]\w\[\033[1;31m\]\$\[\033[0m\] '
